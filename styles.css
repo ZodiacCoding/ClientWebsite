@@ -3,3 +3,11 @@
 .underlay {background-color: white;}
 .mid {background-color: green;}
 div .card {align-content: center;}
+footer {text-align: center;}
+.column img{padding-top: 50;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;}
+.column {text-align: center;}
+.contacting {text-align: center;}
